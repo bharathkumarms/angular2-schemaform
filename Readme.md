@@ -24,4 +24,4 @@ An example usage of [Angular 5 Schema form](https://github.com/bharathkumarms/an
 
 and go to `http://localhost:4200` in your browser.
 
-```Special Mention - dschnelldavis
+#Special Mention - dschnelldavis
