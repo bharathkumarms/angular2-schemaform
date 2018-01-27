@@ -1,8 +1,30 @@
-/__build__
-/__server_build__
-/node_modules
-/typings
-/coverage
-/tsd_typings/
+# Development
+src
+compiled
+out-ngc
+docs
+node_modules
+*.log
+
+# Config
+.angular-cli.json
+.editorconfig
+.firebaserc
+.gitignore
+.npmignore
+firebase.json
+tslint.json
+typedoc.json
+
+# IDE
 .idea
-.vscode
+.project
+.settings
+.idea/*
+*.iml
+*.swp
+
+# System Files
+.DS_Store
+Desktop.ini
+Thumbs.db
