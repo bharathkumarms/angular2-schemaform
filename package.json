@@ -23,10 +23,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dschnelldavis/angular2-json-schema-form"
+    "url": "git+https://github.com/bharathkumarms/angular2-schemaform"
   },
   "bugs": {
-    "url": "https://github.com/dschnelldavis/angular2-json-schema-form/issues"
+    "url": "https://github.com/bharathkumarms/angular2-schemaform/issues"
   },
   "main": "./bundles/angular2-json-schema-form.umd.js",
   "module": "./angular2-json-schema-form.es5.js",
